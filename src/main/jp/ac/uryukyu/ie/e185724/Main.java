@@ -5,6 +5,6 @@ public class Main {
         String str = "百二十三";
         int value;
 
-        Integer.parseInt(value);
+        value = Integer.parseInt(str);
     }
 }
